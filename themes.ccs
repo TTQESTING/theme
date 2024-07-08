@@ -1,0 +1,14 @@
+body {
+  background-image: url('https://drive.google.com/file/d/17vIae23Xoq6GLP4i7dBEaaoB-fdHSkQ_/view?usp=sharing');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.theme-dark .markup {
+  color: #ffffff;
+}
+
+.sidebar-2K8pFh {
+  background-color: rgba(0, 0, 0, 0.7);
+}
